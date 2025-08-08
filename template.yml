@@ -9,4 +9,5 @@ Resources:
       Tags:
         - Key: Environment
           Value: Qat
- 
+        - Key: Region
+          Value: us-west-2
